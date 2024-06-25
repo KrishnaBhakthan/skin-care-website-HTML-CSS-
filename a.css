@@ -1,0 +1,43 @@
+body{
+    background-color:antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h3{
+    color: rgb(105, 84, 84);
+}
+img{
+    align-self: center;
+}
+.divi{
+    align-self: center;
+    
+    
+
+}
+.div1{
+background-image:image(natural.jpg)}
+.div2{
+    text-align:left;
+    color: brown;
+}
+h2{
+    text-align: left;
+}
+div{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+}
+p{
+    color: rgb(107, 64, 33);
+}
+.c{
+    border-radius: 50px;
+}
